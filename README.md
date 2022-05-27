@@ -4,6 +4,10 @@
 
 一款自研的音乐播放 APP
 
+### 开发语言
+
+使用 Flutter 开发
+
 A new Flutter project.
 
 ## Getting Started
