@@ -1,5 +1,9 @@
 # M - Music flutter
 
+### 简介
+
+一款自研的音乐播放 APP
+
 A new Flutter project.
 
 ## Getting Started
